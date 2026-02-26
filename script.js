@@ -34,18 +34,83 @@
 //         console.log("false");
 //     }
 
-var num = 50; 
-console.log(num); 
-console.log(typeof(num)); 
-num = false; 
-console.log(num); 
-console.log(typeof(num)); 
-num = "Raj Singh"; 
-console.log(num); 
-console.log(typeof(num)); 
-num = null; 
-console.log(num); 
-console.log(typeof(num)); 
-num = undefined; 
-console.log(num); 
-console.log(typeof(num));
+// var num = 50; 
+// console.log(num); 
+// console.log(typeof(num)); 
+// num = false; 
+// console.log(num); 
+// console.log(typeof(num)); 
+// num = "Raj Singh"; 
+// console.log(num); 
+// console.log(typeof(num)); 
+// num = null; 
+// console.log(num); 
+// console.log(typeof(num)); 
+// num = undefined; 
+// console.log(num); 
+// console.log(typeof(num));
+
+// var a = 100;  var b = 13;  var c = 10;  var linebreak = "<br>"; 
+ 
+//         console.log("a + b + c = "); 
+//         result = a + b + c; 
+//         console.log(result); 
+//         console.log(linebreak); 
+ 
+//         console.log("a + b = "); 
+//         result = a + b; 
+//         console.log(result); 
+//         console.log(linebreak); 
+ 
+//         console.log("a - b = "); 
+//         result = a - b; 
+//         console.log(result); 
+//         console.log(linebreak); 
+ 
+//         console.log("a / b = "); 
+//         result = a / b; 
+        
+//         console.log(result); 
+//         console.log(linebreak); 
+ 
+//         console.log("a % b = "); 
+//         result = a % b; 
+//         console.log(result); 
+//         console.log(linebreak); 
+
+
+var a = 10; 
+        var b = 20; 
+        var linebreak = "<br />"; 
+ 
+        console.log("(a == b) => "); 
+        result = (a == b); 
+        console.log(result); 
+        console.log(linebreak); 
+ 
+        console.log("(a < b) => "); 
+        result = (a < b); 
+        console.log(result); 
+        console.log(linebreak); 
+ 
+        console.log("(a > b) => "); 
+        result = (a > b); 
+        console.log(result); 
+        console.log(linebreak); 
+ 
+        console.log("(a != b) => "); 
+        result = (a != b); 
+        console.log(result); 
+        console.log(linebreak); 
+ 
+        console.log("(a >= b) => "); 
+         
+        result = (a >= b); 
+        console.log(result); 
+        console.log(linebreak); 
+ 
+        console.log("(a <= b) => "); 
+        result = (a <= b); 
+        console.log(result); 
+        console.log(linebreak); 
+     
